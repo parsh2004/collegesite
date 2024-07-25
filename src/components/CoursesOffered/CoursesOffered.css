@@ -1,0 +1,39 @@
+.courses-offered {
+    padding: 20px;
+  }
+  
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+
+  .courses-table {
+    width: 65%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  }
+  
+  .courses-table th, .courses-table td {
+    border: 1px solid rgba(0, 0, 0, 0.226);
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .courses-table th {
+    background-color: rgba(0, 0, 0, 0.311);
+  }
+  
+  
+  .courses-table th, .courses-table td {
+    width: 50%;
+  }
+  
+  .courses-table tr {
+    height: 50px;
+    background-color: rgba(243, 245, 246, 0.598);
+  }
+  
+  .courses-table th, .courses-table td {
+    box-sizing: border-box;
+  }
+  
